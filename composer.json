@@ -24,14 +24,14 @@
         "flarum-extension": {
             "title": "Mixture",
             "icon": {
-                "name": "fas fa-medium",
+                "name": "fas fa-lemon",
                 "backgroundColor": "#ff9191",
-                "color": "#1b926c"
+                "color": "#fff"
             }
         },
         "minimum-stability": "dev",
         "flagrow": {
-            "discuss": "https://bbs.imashen.cn"
+            "discuss": "https://moerio.cn"
         }
     }
 }
